@@ -1,5 +1,7 @@
 # 6.824-2021-golabs-nodes
 
+遵循课程规则，已删除相关笔记代码。
+
 Here are some nodes of 6.824-2021-golabs.
 
 Initial code is [here](https://github.com/flyrzl/6.824-golabs-2021).
